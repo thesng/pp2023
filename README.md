@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: NGUYEN VIET THANG
+* Student Name: Nguyen Viet Thang
 * Student ID: BI12-401
 
