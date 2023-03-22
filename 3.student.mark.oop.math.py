@@ -1,6 +1,5 @@
 import math
 import numpy as np
-import curses
 
 class Student:
     def __init__(self, id, name, dob):
